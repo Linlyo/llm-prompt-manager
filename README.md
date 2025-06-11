@@ -24,5 +24,11 @@ The app can be launched as a standalone app on iOS if you use the `setup.py` for
 
 Let me know if you have any suggestions.
 
+Here's the design of the app's icon after my chill collaboration with Gemini. It looks good on the top right side of your Mac's tool bar.
+
+![PromptTool](images/icon.png)
+
+
+
 ---
-Require Python version 3.9 or later.
+Requires Python version 3.9 or later.
