@@ -31,5 +31,7 @@ Here's the design of the app's icon, created during a relaxed collaboration with
 
 
 ---
-Requires Python version 3.9 or later.
+Requires Python version 3.9 or later. Can run `requirements.txt` to make sure you set up a proper environment.
+`pip install -r requirements.txt`
+
 Disclaimer: this coding project was done in collaboration with both ChatGPT and Gemini.
