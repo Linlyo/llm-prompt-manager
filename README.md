@@ -1,9 +1,9 @@
 # 2506-llm-prompt-template-manager
-This is a simple Mac desktop menu bar app that helps you organize the prompts that you need to use regularly.
+This is a simple Mac desktop menu bar app that helps you organize the prompts you regularly use.
 
-There could be prompts that you repeated need to use when interacting with LLMs. And they may serve different purposes. 
+You may have prompts you frequently use when interacting with LLMs, each serving different purposes. This app helps you retrieve those templates efficiently.
 
-Here's a starting point for your mind map when working with LLMs every day. This is how you'd keep your tasks organized in the `prompts.txt`.
+Here's a starting point for your mental map when working with LLMs daily. This is how you can keep your prompt templates organized in `prompts.txt`.
 
 Example:
 ```
@@ -13,22 +13,23 @@ LC review:::Please assess my code for a Leetcode question from the perspective o
 Compare:::Compare these two versions of code. Explain the differences to me. Use examples when necessary and let me know which would be better for a tech interview.
 
 ### Writing
-Edit:::Please edit this text. Do not change any content details, but only focus on the language itself. Smooth out any expression that may read awkward or unnatural, and fix any grammar issues. This will help me as a non-native speaker.
+Edit:::Please edit this text. Do not change any content details; focus only on the language. Smooth out any expression that may read awkward or unnatural, and fix any grammar issues. This will help me as a non-native speaker.
 
 ### Others
-Tell Joke::: Hey, can you tell me a joke to lighten up my mood? It's been such a stressful day and I'm tried. In your joke, make sure to include a number that's the date of this month. Be creative.
+Tell Joke::: Hey, can you tell me a joke to lighten up my mood? It's been such a long day, and I'm tried. Include a number that matches today’s date in the joke. Be creative.
 ```
-After `###` is your category name. The label shown in the dropdown menu proceeds the actual template, separated by `:::`.
+Each `###` marks a category name. The label shown in the dropdown menu precedes the actual template, separated by `:::`.
 
-The app can be launched as a standalone app on iOS if you use the `setup.py` for the creation. After running the process, the final product will be in the folder `dist`.
+You can launch the app as a standalone macOS app by using `setup.py`. After running the setup, the final product will be available in the `dist` folder.
 
 Let me know if you have any suggestions.
 
-Here's the design of the app's icon after my chill collaboration with Gemini. It looks good on the top right side of your Mac's tool bar.
+Here's the design of the app's icon, created during a relaxed collaboration with Gemini. It looks great on the top-right corner of your Mac's toolbar.
 
-![PromptTool](images/icon.png)
+![PromptTool](icon.png)
 
 
 
 ---
 Requires Python version 3.9 or later.
+Disclaimer: this coding project was done in collaboration with both ChatGPT and Gemini.
