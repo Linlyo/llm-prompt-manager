@@ -22,12 +22,16 @@ Each `###` marks a category name. The label shown in the dropdown menu precedes 
 
 You can launch the app as a standalone macOS app by using `setup.py`. After running the setup, the final product will be available in the `dist` folder.
 
+Here’s the design of the app icon, created during a relaxed and fun collaboration with Gemini. Its cheerful smile looks great in the top-right corner of your Mac’s toolbar. This lightweight application runs smoothly and helps you keep your prompt templates well organized!
+
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+  <img src="icon.png" alt="PromptTool" width="100" style="margin-right: 20px;" />
+  <img src="demo.png" alt="Demo image" width="300" />
+</div>
+
 Let me know if you have any suggestions.
 
-Here's the design of the app's icon, created during a relaxed collaboration with Gemini. It looks great on the top-right corner of your Mac's toolbar.
-
-![PromptTool](icon.png)
-
+~Linly
 
 
 ---
